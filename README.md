@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grownupmonkey
 - 👀 I’m interested in integrating coding into language and other high school classes.
-- 🌱 I’m currently learning the very basics, taking the CS50 course through HarvardX.
+- 🌱 I’m currently learning HTML/CSS/JS and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at joshua.maret@lethsd.ab.ca
 
